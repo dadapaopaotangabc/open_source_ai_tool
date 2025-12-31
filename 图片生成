@@ -1,0 +1,31 @@
+图片生成
+{
+  "image_analysis": {
+    "subject": "[Ingredient Name] Science Infographic, 9:16",
+    "style": "Modular Bento Grid Design (Bento Box Grid Layout) / Minimalist UI Design",
+    "tone": "Professional, Warm, Premium, Educational",
+    "primary_colors": ["Beige", "Cream", "Dark Brown", "Warm Earth Tones"]
+  },
+  "prompt_elements": {
+    "subject_description": "A high-quality science infographic poster about [Ingredient Name].",
+    "layout": "Bento box-style modular grid layout, clean UI/UX interface design, divided into clear rectangular cards.",
+    "visual_details": [
+      "Top header with a striking elegant Chinese calligraphy title 'Chinese Name of Ingredient' and its scientific name",
+      "Top center features an ultra-realistic photographic image of [Visual Description of Fresh Ingredient]",
+      "A small outline map of [Origin/Country] in the corner",
+      "Section 1: Nutritional analysis with donut charts and bar graphs, percentages indicating proportions",
+      "Section 2: Health benefits displayed with a human silhouette diagram and connecting lines",
+      "Section 3: Cooking methods matrix with minimalist line icons ([Cooking Method 1], [Cooking Method 2], [Cooking Method 3])",
+      "Section 4: Seasonal eating guide with a pie chart",
+      "Section 5: Food pairing grid with simple icons ([Pairing 1], [Pairing 2], [Pairing 3])",
+      "Section 6: Target audience profile icons",
+      "Section 7: Storage and selection guide with temperature and weather icons"
+    ],
+    "art_style": "Minimalist flat design, combining soft vector illustrations with product photography, flat design icons, clean typography.",
+    "lighting": "Soft diffused studio lighting, shadowless and flat aesthetic style.",
+    "color_palette": "Muted warm beige background, creamy white cards, dark brown and charcoal gray text, accented softly."
+  },
+  "negative_prompt": "Cluttered, neon colors, chaotic layout, low resolution, blurry, distorted text, 3D rendering, dark background, messy, oversaturated, watermark"
+}
+
+Ingredient Name: Goji Berries
